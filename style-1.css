@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    width: 100%;
+    font-family: 'Fira Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.head{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 68px;
+    margin-right: 68px;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+
+    padding-top: 68px;
+    width: 300px;
+}
+.logo-txt{
+    margin-top: 15px;
+    font-size: 18px;
+}
+.navbar img{
+    size: 130px, 130px;
+}
+
+.slider-txt{
+    text-align: left;
+    color: #fff;
+    margin-left: -150px;
+    margin-right: 700px;
+}
+.slider-txt .h2{
+    font-weight: bold;
+    font-size: 44px;
+}
+.slider-txt .p{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+
+.sec1{
+    height: 1206px;
+    background-color: #00a2e9;
+}
+
+.row1{
+    height:867px;
+    width:1161px;
+    margin-left: 374px;
+    margin-top: 207px;
+}
+
+.text-sec1{
+    font-size: 17px;
+}
+
+.col1{
+    background-image:url(images/content-1.jpg);
+    background-color: black;
+    height: 768px;
+    width: 588px;
+}
+
+.col2{
+    /* background-color: #10172e ; */
+    background-image: url(images/content-2.jpg);
+    background-size: cover;
+    height: 768px;
+    
+}
+
+
+
+.sec1-white{
+    background-image: url(images/content-3.jpg);
+    background-color: white;
+    height: 788px;
+    width: 1079px;
+    margin-top: 120px;
+    margin-left: 400px;
+
+}
+
+.sec1-white h5{
+    font-size: 18px;
+    margin-top: 88px;
+    margin-left: 386px;
+}
+
+.sec2{
+    height: 1019px;
+    width: 100%;
+    text-align: left;
+}
+
+.sec3{
+    background-color: #26272a;
+    height: 902px;
+}
+
+.sec3-card{
+    background-color: black;
+    background-image: url(images/content-6.jpg);
+    height: 633px;
+    width: 1081px;
+}
+
+.sec3-subtitle{
+    margin-top: 98px;
+}
+
+.sec4{
+    height: 934px;
+}
+
+.sec4-img{
+    width: 375px;
+    height: 375px;
+}
+
+.figure{
+    padding-right: 40px;
+}
+
+.icon-1{
+    color: #00a2e9;
+}
+
+.main-footer{
+    height: 893px;
+    background-image:url(images/content-8.jpg) ;
+}
+
+.row-ft{
+    height: 465px;
+}
+
+.sub-footer{
+    background-color:#003571 ;
+    height: 427px;
+    width: 1550px;
+    
+}
+.btn_link_default,
+.btn.btn-link.btn_link_default{
+    text-decoration: none;
+    color: #000;
+}
+
+.z1{
+    z-index: 1;
+}
+.z2{
+    z-index: 2;
+}
+.z3{
+    z-index: 3;
+}
