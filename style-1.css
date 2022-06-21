@@ -123,6 +123,21 @@ body{
     height: 375px;
 }
 
+.nh{
+    font-size: 18px;
+}
+
+.sec4-content{
+    height: 934px;
+    margin-right: 150px;
+}
+
+.ver-line{
+    height: 565px;
+    width: 5px;
+    border-left: black;
+}
+
 .figure{
     padding-right: 40px;
 }
@@ -150,6 +165,61 @@ body{
 .btn.btn-link.btn_link_default{
     text-decoration: none;
     color: #000;
+}
+
+.text-white.tec-text{
+    font-weight: lighter;
+    font-size: 93px; 
+    margin-top: 650px; 
+    margin-left: 500px; 
+    transform:rotate(-90deg);
+}
+
+.text-sec1{
+    width: 397px;
+}
+
+.btn.btn-outline-light{
+    width: 201px;
+    margin-top: 4px;
+    font-weight: bold;
+}
+
+.sec2 img{
+    width:633px; 
+    height:772px; 
+    margin-left: 300px; 
+    margin-top: 133px;
+}
+
+.col.d-flex.z1.bg-blue{
+    justify-content: center;
+    align-items: center;
+    background-color: #003571;
+}
+
+.col.bg-light.d-flex.z1{
+    justify-content: center;
+    align-items: center;
+    background-image:url() ;
+}
+
+.position-absolute.z2.text-white.text-cus{
+    font-size: 93px; 
+    margin-top: 75px; 
+    margin-left: 375px; 
+    font-weight: normal;
+}
+
+.d-flex.sec3-content{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.text.ms-5{
+    width: 385px; 
+    margin-top: 77px;
 }
 
 .z1{
